@@ -1,4 +1,4 @@
-#DH Movies 
+**DH Movies** 
 
 Instalar dependencias 
 
@@ -15,12 +15,13 @@ $npm test
 En el navegador http://localhost:3000
 
 
-##Database
+Database
 
+```
 ./movies_db.sql
+```
 
-
-##Configuracion de la database
+Configuracion msyql
 
     "username": "root"
     "password": ''
